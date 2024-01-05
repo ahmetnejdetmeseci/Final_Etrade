@@ -1,0 +1,60 @@
+﻿@model ProductModel
+@*Generated from Custom Template.*@
+@*Model namespace using directive should be added to _ViewImports.cshtml.*@
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.UnitPriceOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.UnitPriceOutput)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.ExpirationDateOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.ExpirationDateOutput)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.IsContinuedOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.IsContinuedOutput)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.CategoryOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.CategoryOutput)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StoresOutput)
+        </dt>
+        <dd>
+            @Html.Raw(Model.StoresOutput)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>&nbsp;|&nbsp;
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

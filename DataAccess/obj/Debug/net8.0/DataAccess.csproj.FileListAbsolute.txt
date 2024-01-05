@@ -1,0 +1,14 @@
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Masaüstü\BootCamp .NET\Enterprise\RMSProject\AhmetNejdetMeseci\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
